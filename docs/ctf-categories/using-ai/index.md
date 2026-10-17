@@ -8,7 +8,6 @@ The pages in this section are intended to help learners ask better questions, st
 
 Use these pages as prompt templates when working through approved CTF challenges or cybersecurity labs.
 
-- [GPT for CTF](index.md)
 - [GPT for CTF - OSINT](gpt-for-ctf-osint.md)
 - [GPT for CTF - Cryptography](gpt-for-ctf-cryptography.md)
 - [GPT for CTF - Reverse Engineering](gpt-for-ctf-reverse-engineering.md)

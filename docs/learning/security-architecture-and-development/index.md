@@ -5,6 +5,7 @@ This section covers the principles, technologies, and practices used to design s
 ## Secure Design and Architecture
 
 - [Secure Design Principles, Models, and Evaluation](secure-design-principles-models-and-evaluation.md)
+- [Software Security Architecture](software-security-architecture.md)
 - [Virtualization and Cloud Computing](virtualization-and-cloud-computing.md)
 - [Server Security](server-security.md)
 - [Embedded Systems Security](embedded-systems-security.md)

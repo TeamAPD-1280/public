@@ -38,8 +38,8 @@ sudo apt install -y git python3 python3-venv python3-pip
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/TeamAPD-1280/Test.git
-cd Test
+git clone https://github.com/TeamAPD-1280/public.git
+cd public
 ```
 
 ## Set Up the Python Virtual Environment

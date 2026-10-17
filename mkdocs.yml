@@ -1,9 +1,9 @@
 site_name: Advanced Learning Hub
 site_description: A cybersecurity learning resource for building depth across the core security domains
-site_url: https://teamapd-1280.github.io/Test/
+site_url: https://teamapd-1280.github.io/public/
 
-repo_name: TeamAPD-1280/Test
-repo_url: https://github.com/TeamAPD-1280/Test
+repo_name: TeamAPD-1280/public
+repo_url: https://github.com/TeamAPD-1280/public
 
 theme:
   name: material
